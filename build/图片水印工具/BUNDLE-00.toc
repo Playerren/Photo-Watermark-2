@@ -1,0 +1,1 @@
+([('图片水印工具', '/Users/renjiahao/Photo-Watermark-2/dist/图片水印工具', 'EXECUTABLE')],)
